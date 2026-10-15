@@ -1,0 +1,9 @@
+{
+  "appId": "com.example.bashnya",
+  "appName": "Башня",
+  "webDir": "www",
+  "backgroundColor": "#0d1220",
+  "android": {
+    "allowMixedContent": false
+  }
+}
